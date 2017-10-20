@@ -23,4 +23,4 @@ A continuación se explica como he realizado:
 ### 3. USO DE _RAWGIT_ PARA VER HTML DE _GITHUB_
 **3.1.** Accediendo a mi repositorio he clicado sobre "Codi_HTML.html"
 **3.2.** He copiado la URL y la he pegado en la página https://rawgit.com/
-**3.3.** He abierto el [enlace] en otra pestaña del navegador.
+**3.3.** He abierto el [enlace](https://rawgit.com/CsOrtegaCo/Ejemplos-de-Ficheros/master/Codi_HTML.html) en otra pestaña del navegador.
