@@ -7,9 +7,9 @@ A continuación se explica como he realizado:
 ### 1. CREACIÓN DE DOCUMENTOS RTF, XML I HTML  
 **1.1.** Utilizando el _bloc de notas_ he creado un nuevo documento para cada código utilizando los propios ejemplos de los apuntes (RTF, XML i HTML).  
 **1.2.** Como los 3 archivos tenían extensión (.txt) los he cambiado a sus correspondientes extensiones según el código.    
-* Codi_RTF.rtf
-* Codi_XML.xml
-* Codi_HTML.html
+* **Codi_RTF.rtf**
+* **Codi_XML.xml**
+* **Codi_HTML.html**
 
 **1.3.** He abierto cada documento con su correspondiente programa.
 > Al intentar abrir el archivo .xml con Internet Explorer me ha salido el mismo código que el del bloc de notas.   
