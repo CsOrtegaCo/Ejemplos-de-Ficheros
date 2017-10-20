@@ -10,7 +10,7 @@ A continuación se explica como he realizado:
 * **Codi_RTF.rtf**
 * **Codi_XML.xml**
 * **Codi_HTML.html**
-![Captura de pantalla]
+
 **1.3.** He abierto cada documento con su correspondiente programa.
 > Al intentar abrir el archivo .xml con Internet Explorer me ha salido el mismo código que el del bloc de notas.   
 "Supongo" que no debo tener las extensiones de Java para poder ver los marcos.  
