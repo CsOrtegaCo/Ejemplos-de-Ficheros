@@ -24,3 +24,5 @@ A continuación se explica como he realizado:
 **3.1.** Accediendo a mi repositorio he clicado sobre "Codi_HTML.html"  
 **3.2.** He copiado la URL y la he pegado en la página https://rawgit.com/  
 **3.3.** He abierto el [enlace](https://rawgit.com/CsOrtegaCo/Ejemplos-de-Ficheros/master/Codi_HTML.html) en otra pestaña del navegador.  
+
+![Captura de pantalla][https://raw.githubusercontent.com/CsOrtegaCo/Ejemplos-de-Ficheros/master/Foto_documentos.png]
